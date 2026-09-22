@@ -156,7 +156,7 @@ def process_site_info(site_name):
             f"ra.{site_code}.asda.uk",
             f"rb.{site_code}.asda.uk",
             f"rcorea.{site_code}.asda.uk",
-            f"rcoreb.{site_code}.asda.uk"
+            f"rcoreb.{site_code}.asda.uk",
             f"sacc1.{site_code}.asda.uk",
             f"sacc2.{site_code}.asda.uk",
             f"ssrvacc1.{site_code}.asda.uk",
